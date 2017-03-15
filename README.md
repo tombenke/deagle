@@ -1,5 +1,5 @@
-CadSoft EAGLE 7.7.0
-===================
+Dockerized EAGLE
+================
 
 This project is about installing and running the CadSoft EAGLE 7.7.0 software from a docker image.
 
